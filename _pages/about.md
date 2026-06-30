@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a student currently finishing my Master's degree in Mathematics (programme _Probabilities and Statistics in Finance and Sciences_) at the [Faculty of Mathematics and Computer Science, University of Bucharest](https://fmi.unibuc.ro/), Romania. I obtained a Bachelor's degree in Mathematics (with a minor in Computer Science) at the same institution, in 2024.
+I'm a student currently finishing my Master's degree in Mathematics (programme: _"Probabilities and Statistics in Finance and Sciences"_) at the [Faculty of Mathematics and Computer Science, University of Bucharest](https://fmi.unibuc.ro/), Romania. I obtained a Bachelor's degree in Mathematics (with a minor in Computer Science) at the same institution, in 2024.
 
 I am also a Research Assistant at the [National Institute of Research and Development for Biological Sciences, Bioinformatics Department](https://www.incdsb.ro/en/), where I am actively working on projects which involve multispectral imaging and machine learning. 
 
