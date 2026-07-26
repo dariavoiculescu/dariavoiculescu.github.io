@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a student currently finishing my Master's degree in Mathematics (programme: _Probabilities and Statistics in Finance and Sciences_) at the [Faculty of Mathematics and Computer Science, University of Bucharest](https://fmi.unibuc.ro/), Romania. I obtained a Bachelor's degree in Mathematics (with a minor in Computer Science) at the same institution, in 2024.
+I am a Master's student, currently finishing my degree in Mathematics (programme: _Probabilities and Statistics in Finance and Sciences_) at the [Faculty of Mathematics and Computer Science, University of Bucharest](https://fmi.unibuc.ro/), Romania. I obtained a Bachelor's degree in Mathematics (with a minor in Computer Science) at the same institution, in 2024.
 
-I am also a Research Assistant in the Bioinformatics Department of the [National Institute of Research and Development for Biological Sciences,](https://www.incdsb.ro/en/), where I am actively working on projects which involve multispectral imaging and machine learning. 
+I am also a Research Assistant in the Bioinformatics Department of the [National Institute of Research and Development for Biological Sciences](https://www.incdsb.ro/en/), where I am actively working on projects which involve multispectral imaging and machine learning. 
 
 I'm curious across different domains of Mathematics and Computer Science. However, notable ares of interest for me are Numerical Analysis, Optimisation, and Machine Learning. I appreciate rigorous proofs and I care about understanding the fundamentals.
