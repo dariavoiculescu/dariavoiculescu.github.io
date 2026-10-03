@@ -51,5 +51,9 @@ body { font-size: 1.1em; }
   max-width: 120px !important;
   width: 120px !important;
   height: 120px !important;
-  object-fit: cover;        /* keeps the photo from being squashed */
+  object-fit: cover; 
+  padding: 0 !important;
+  border: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
 }
