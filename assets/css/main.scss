@@ -47,10 +47,9 @@ body, h1, h2, h3, h4, h5, h6, p, li, a, blockquote,
 
 body { font-size: 1.1em; }
 
-/* Sidebar: scroll if taller than the window (desktop only) */
-@media (min-width: 64em) {
-  .sidebar {
-    max-height: calc(100vh - 2em);
-    overflow-y: auto;
-  }
+.author__avatar img {
+  max-width: 100px !important;
+  width: 100px !important;
+  height: 100px !important;
+  object-fit: cover;        /* keeps the photo from being squashed */
 }
