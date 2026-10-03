@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Daria Voiculescu"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Bucharest, Romania"
-  employer         : "National Institute of Research and Development in Biological Sciences"
+  employer         : "NIRDBS"
   uri              : "https://www.incdsb.ro/en"
   email            : "daria[dot]voiculescu[at]incdsb.ro" 
 
