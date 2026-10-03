@@ -34,6 +34,7 @@ Awards
 Activities
 ======
 * [11th Regional French-Romanian Summer School on Applied Mathematics](https://sites.google.com/site/marinliviu/regional-french-romanian-summer-school-on-applied-mathematics/11th-regional-fr-ro-summer-school-on-applied-mathematics-8-16-july-2026), participant, July 2026
+* [DANUBIUS-RO 2026 Conference](https://conf.incdsb.ro/danro26/), speaker, July 2026 
 * [Digital Innovation Summit Bucharest](https://disb.ro/agenda), attendee, March 2026
 * [10th Regional French-Romanian Summer School on Applied Mathematics](https://sites.google.com/site/marinliviu/regional-french-romanian-summer-school-on-applied-mathematics/10th-regional-fr-ro-summer-school-on-applied-mathematics-9-17-july-2025), participant, July 2025
 * [9th Regional French-Romanian Summer School on Applied Mathematics](https://sites.google.com/site/marinliviu/regional-french-romanian-summer-school-on-applied-mathematics/9th-regional-fr-ro-summer-school-on-applied-mathematics-10-18-july-2024), participant, July 2024
