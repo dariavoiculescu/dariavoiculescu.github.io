@@ -58,17 +58,3 @@ body { font-size: 1.1em; }
   background: transparent !important;
   box-shadow: none !important;
 }
-
-body {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-}
-
-.initial-content {
-  flex: 1 0 auto;
-}
-
-.page__footer {
-  margin-top: auto;
-}
