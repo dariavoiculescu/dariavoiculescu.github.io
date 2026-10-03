@@ -29,7 +29,7 @@ author:
   bio              : ""
   location         : "Bucharest, Romania"
   employer         : "NIRDBS"
-  uri              : "https://www.incdsb.ro/en"
+  uri              : # "https://www.incdsb.ro/en"
   email            : "daria[dot]voiculescu[at]incdsb.ro" 
 
   # Academic websites
