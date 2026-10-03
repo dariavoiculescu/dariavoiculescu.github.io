@@ -37,3 +37,20 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Computer Modern font */
+body, h1, h2, h3, h4, h5, h6, p, li, a, blockquote,
+.masthead, .sidebar, .page__content, .archive__item,
+.author__bio, .author__urls, .page__footer, input, button {
+  font-family: "Computer Modern Serif", "Latin Modern Roman", Georgia, serif !important;
+}
+
+body { font-size: 1.1em; }
+
+/* Sidebar: scroll if taller than the window (desktop only) */
+@media (min-width: 64em) {
+  .sidebar {
+    max-height: calc(100vh - 2em);
+    overflow-y: auto;
+  }
+}
